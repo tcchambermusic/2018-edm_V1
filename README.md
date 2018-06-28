@@ -22,11 +22,11 @@
 
 <map name="Map">
 
-  <area shape="rect" coords="634.95,1054.1,798.88,1200.39" href="https://www.tc-chambermusic.org?utm_source=newsletter&utm_medium=edm_all&utm_campaign=2018_tcmf" target="_blank" alt="購票去">
+  <area shape="rect" coords="634.95,1054.1,798.88,1200.39" href="http://www.tc-chambermusic.org?utm_source=newsletter&utm_medium=edm_all&utm_campaign=2018_tcmf" target="_blank" alt="購票去">
 
   <area shape="rect" coords="43.58,1054.1,615.24,1320.74" href="https://youtu.be/P_ycuDW7wD8" target="_blank" alt="影片：2010 TC 音樂節貝多芬第三交響曲 第四樂章">
 
-  <area shape="rect" coords="42.54,1425.52,566.47,1474.81" href="https://www.tc-chambermusic.org?utm_source=newsletter&utm_medium=edm_all&utm_campaign=2018_tcmf" target="_blank" alt="TC官網">
+  <area shape="rect" coords="42.54,1425.52,566.47,1474.81" href="http://www.tc-chambermusic.org?utm_source=newsletter&utm_medium=edm_all&utm_campaign=2018_tcmf" target="_blank" alt="TC官網">
 
 </map>
 
