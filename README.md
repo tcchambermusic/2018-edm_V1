@@ -4,9 +4,9 @@
 </head>
 
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="830" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center"><img src="http://edm.tc-chambermusic.org/2018-edm/TC_edm0616.jpg" alt="2018 Taiwan Connection 音樂節 EDM" width="100%" usemap="#Map"/></td>
+    <td align="center"><img src="http://edm.tc-chambermusic.org/2018-edm/TC_edm0616.jpg" alt="2018 Taiwan Connection 音樂節 EDM" width="830" height="1594" usemap="#Map"/></td>
   </tr>
 </table>
 
